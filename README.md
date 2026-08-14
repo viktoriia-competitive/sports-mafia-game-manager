@@ -482,26 +482,6 @@ Potential additions include TypeScript, keyboard shortcuts, configurable ruleset
 
 ---
 
-## GitHub description
-
-> **React game-management system for competitive Sports Mafia, automating private role dealing, timed speeches, voting rules, fouls, night actions, win detection, and printable match protocols.**
-
-### Suggested topics
-
-```text
-react
-vite
-javascript
-mafia-game
-social-deduction
-game-manager
-state-machine
-tournament-software
-web-app
-```
-
----
-
 <p align="center">
   <b>The players play the game. The app remembers the rules.</b>
 </p>
